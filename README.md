@@ -2,4 +2,6 @@
 
     Bu bizim ilk public repomuzdur.
 
-ikinc değişikşliğimiz
+ikinci değişikşliğimiz
+
+üçüncü değişikliğimiz
