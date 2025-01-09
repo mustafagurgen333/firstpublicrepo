@@ -2,6 +2,6 @@
 
     Bu bizim ilk public repomuzdur.
 
-ikinci değişikşliğimiz
+ikinc değişikşliğimiz
 
-üçüncü değişikliğimiz
+test deneme
